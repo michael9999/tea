@@ -1,0 +1,59 @@
+/*
+	Theme Name: The-Toi (test)
+	Theme URI: http://www.the-toi.com
+	Description: Thème adapté du thème Hoarder (ThemeZilla) pour the-toi.com / version de test
+	Author: L'Oeuf|web-design
+	Author URI: http://www.loeuf-webdesign.fr
+	Version: 0.0
+	Template: hoarder
+*/
+
+@import url("../hoarder/style.css");
+
+h1 {
+	color: red;
+}
+.blog #primary {
+    padding-bottom: 65px;
+    position: relative;
+    width: 633px;
+}
+.blog.layout-2cl #primary {
+    float: left;
+}
+.layout-2cl #sidebar {
+    float: right;
+}
+.hentry {
+	width: 290px;
+}
+.home .hentry {
+	width: 600px;
+}
+.rub-name h2 {
+	margin-bottom: .5em;
+	padding: 0 20px;
+	background-color: #000;
+	color: #FFF;
+}
+.rub-name, .rub-name:hover {
+	text-decoration: none;
+}
+.rub-name:hover h2 {
+	background-color: #CCC;
+	color: #000;
+}
+#prochain-the-time a {
+	position: absolute;
+	top: 1em;
+	left: 3em;
+	width: 250px;
+	height: 250px;
+	text-indent: -5000px;
+	background: transparent url(images/bouton-prochain-the-time.png) no-repeat;
+}
+@media screen and (max-width: 799px) {
+	#prochain-the-time a {
+		display: none;
+	}
+}

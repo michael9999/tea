@@ -1,0 +1,33 @@
+[28-Jan-2015 21:14:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/thetoico/public_html/the-toi.com/wp-content/plugins/add-to-menu/plugin.php on line 84
+[28-Jan-2015 21:14:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/thetoico/public_html/the-toi.com/wp-content/plugins/add-to-menu/plugin.php on line 84
+[28-Jan-2015 21:14:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/thetoico/public_html/the-toi.com/wp-content/plugins/add-to-menu/plugin.php on line 84
+[11-Feb-2015 20:55:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/thetoico/public_html/the-toi.com/wp-content/plugins/add-to-menu/plugin.php on line 84
+[11-Feb-2015 20:55:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/thetoico/public_html/the-toi.com/wp-content/plugins/add-to-menu/plugin.php on line 84
+[11-Feb-2015 20:55:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/thetoico/public_html/the-toi.com/wp-content/plugins/add-to-menu/plugin.php on line 84
+[11-Feb-2015 23:03:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:04:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:05:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:06:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:06:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:06:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:06:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:06:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:06:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:06:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:07:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:07:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:08:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:08:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:08:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:08:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:10:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:13:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:16:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:16:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:16:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:16:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:16:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:16:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:16:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 23:16:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[14-Jun-2015 10:57:35 UTC] WordPress database error Can't DROP 'slug'; check that column/key exists for query ALTER TABLE wp_terms DROP INDEX slug, ADD INDEX slug(slug(191)) made by wp_upgrade, pre_schema_upgrade

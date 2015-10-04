@@ -1,0 +1,11 @@
+[11-Feb-2015 17:06:53 America/Winnipeg] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 17:07:05 America/Winnipeg] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 17:07:20 America/Winnipeg] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 17:11:31 America/Winnipeg] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 17:12:45 America/Winnipeg] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 17:13:08 America/Winnipeg] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 17:30:52 America/Winnipeg] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 17:31:05 America/Winnipeg] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[11-Feb-2015 17:32:29 America/Winnipeg] PHP Parse error:  syntax error, unexpected '<' in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 12
+[16-Feb-2015 09:29:39 America/Winnipeg] PHP Fatal error:  Call to undefined function add_filter() in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 15
+[21-Feb-2015 04:15:41 America/Winnipeg] PHP Fatal error:  Call to undefined function add_filter() in /home/thetoico/public_html/the-toi.com/wp-content/themes/hoarder/framework/zilla-theme-functions.php on line 15

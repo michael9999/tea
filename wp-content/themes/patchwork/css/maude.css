@@ -1,0 +1,56 @@
+/*
+ *
+ * @package Patchwork
+ *
+ */
+
+.style-maude th {
+	background-color: #63b6b1;
+}
+.style-maude a,
+.style-maude a:visited {
+	color: #cf534d;
+}
+.style-maude a:hover,
+.style-maude a:focus,
+.style-maude a:active {
+	color: #cf534d;
+	border-bottom: 1px dashed #cf534d;
+}
+.style-maude #masthead {
+	background-image:url(../images/patchwork.jpg);
+	border-bottom: 10px solid #46433a;
+}
+.style-maude #masthead hgroup {
+	border: 10px solid #46433a;
+}
+.style-maude #masthead .site-title,
+.style-maude #masthead .site-title a {
+	color: #63b6b1;
+}
+.style-maude #masthead .site-description {
+	color: #46433a;
+}
+.style-maude .entry-title,
+.style-maude .entry-title a {
+	color: #63b6b1;
+}
+.style-maude h1.page-title {
+	color: #46433a;
+}
+.style-maude .footer-bottom {
+	background-image:url(../images/patchwork.jpg);
+	border-top: 30px solid #46433a;
+}
+.style-maude .main-navigation,
+.style-maude .main-navigation ul li {
+	background-color: #63b6b1;
+}
+.style-maude h2.widget-title,
+.style-maude h2.widget-title a {
+	color: #63b6b1;
+}
+.style-maude a.post-edit-link,
+.style-maude a.post-edit-link:hover {
+	background-color: #46433a;
+}

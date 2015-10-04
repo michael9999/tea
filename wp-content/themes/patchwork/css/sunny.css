@@ -1,0 +1,59 @@
+/*
+ *
+ * @package Patchwork
+ *
+ */
+
+.style-sunny th {
+	background-color: #63b6b1;
+}
+.style-sunny a,
+.style-sunny a:visited {
+	color: #4c2c24;
+}
+.style-sunny a:hover,
+.style-sunny a:focus,
+.style-sunny a:active {
+	color: #4c2c24;
+	border-bottom: 1px dashed #4c2c24;
+}
+.style-sunny blockquote {
+	border-left: 4px solid #e55f49 !important;
+}
+.style-sunny #masthead {
+	background-image:url(../images/patchwork2.jpg);
+	border-bottom: 10px solid #4c2c24;
+}
+.style-sunny #masthead hgroup {
+	border: 10px solid #4c2c24;
+}
+.style-sunny #masthead .site-title,
+.style-sunny #masthead .site-title a {
+	color: #e55f49;
+}
+.style-sunny #masthead .site-description {
+	color: #4c2c24;
+}
+.style-sunny .entry-title,
+.style-sunny .entry-title a {
+	color: #e55f49;
+}
+.style-sunny h1.page-title {
+	color: #4c2c24;
+}
+.style-sunny .footer-bottom {
+	background-image:url(../images/patchwork2.jpg);
+	border-top: 30px solid #4c2c24;
+}
+.style-sunny .main-navigation,
+.style-sunny .main-navigation ul li {
+	background-color: #63b6b1;
+}
+.style-sunny h2.widget-title,
+.style-sunny h2.widget-title a {
+	color: #63b6b1;
+}
+.style-sunny a.post-edit-link,
+.style-sunny a.post-edit-link:hover {
+	background-color: #63b6b1;
+}

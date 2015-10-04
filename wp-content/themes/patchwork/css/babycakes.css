@@ -1,0 +1,56 @@
+/*
+ *
+ * @package Patchwork
+ *
+ */
+
+.style-babycakes th {
+	background-color: #774f47;
+}
+.style-babycakes a,
+.style-babycakes a:visited {
+	color: #774f47;
+}
+.style-babycakes a:hover,
+.style-babycakes a:focus,
+.style-babycakes a:active {
+	color: #774f47;
+	border-bottom: 1px dashed #774f47;
+}
+.style-babycakes #masthead {
+	background-image:url(../images/patchwork3.jpg);
+	border-bottom: 10px solid #774f47;
+}
+.style-babycakes #masthead hgroup {
+	border: 10px solid #774f47;
+}
+.style-babycakes #masthead .site-title,
+.style-babycakes #masthead .site-title a {
+	color: #ef9595;
+}
+.style-babycakes #masthead .site-description {
+	color: #774f47;
+}
+.style-babycakes .entry-title,
+.style-babycakes .entry-title a {
+	color: #c5cb80;
+}
+.style-babycakes h1.page-title {
+	color: #774f47;
+}
+.style-babycakes .footer-bottom {
+	background-image:url(../images/patchwork3.jpg);
+	border-top: 30px solid #774f47;
+}
+.style-babycakes .main-navigation,
+.style-babycakes .main-navigation ul li {
+	background-color: #ef9595;
+}
+.style-babycakes h2.widget-title,
+.style-babycakes h2.widget-title a {
+	color: #ef9595;
+}
+.style-babycakes a.post-edit-link,
+.style-babycakes a.post-edit-link:hover {
+	background-color: #ef9595;
+}
